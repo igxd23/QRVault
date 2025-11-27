@@ -1,0 +1,10 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+}
+.card {
+    border-radius: 14px;
+}
+button {
+    padding: 14px;
+    font-size: 18px;
+}
