@@ -25,3 +25,6 @@ def save_scan():
         writer.writerow([datetime.now().isoformat(), data])
 
     return jsonify({"status": "saved", "data": data})
+
+if __name__ == "__main__":
+    app.run(debug=True)
