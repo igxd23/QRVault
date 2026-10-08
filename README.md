@@ -1,3 +1,4 @@
+`
 # QRVault
 
 A lightweight web-based QR code scanner built with **Flask**. Scan QR codes directly from your browser and automatically save the scanned data with a timestamp to a CSV file.
